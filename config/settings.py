@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'oauth2_provider',
     'rest_framework',
     'rest_framework_simplejwt',
+
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
